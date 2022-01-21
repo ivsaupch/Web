@@ -1,0 +1,35 @@
+#members {
+    background: #9e9e9c;
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    margin-bottom: 0px;
+}
+
+#members h2 {
+    line-height: 1.1em;
+    color: white;
+    font-family: 'candy';
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#members h4 {
+    line-height: 0;
+    font-weight: 400;
+}
+
+#members .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#members-pic {
+    margin: 20px;
+}
+
+#members img {
+    width: 250px;
+}

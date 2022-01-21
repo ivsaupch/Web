@@ -1,0 +1,58 @@
+@import url(social-bar.css);
+@import url(header.css);
+@import url(slider.css);
+@import url(presentation.css);
+@import url(highlights.css);
+@import url(members.css);
+@import url(footer.css);
+
+.container {
+    width: 85%;
+    margin: auto;   
+    position: static;
+    display: grid;
+    max-width: 1000px
+}
+
+.header {
+    background: #c6032b;
+    color: white;
+
+    padding: 2rem 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 40px;
+    
+}
+.img-header {
+    width: 180px;
+    float: left;
+    margin-top: -15px;
+}
+
+.main {
+    padding-top: 6.52rem;
+    font-family: 'Raleway';
+}
+
+body {
+    color: #333;
+    margin: 0;
+}
+
+section {
+    width: 100%;
+    margin-bottom: 25px;
+}

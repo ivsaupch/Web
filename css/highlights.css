@@ -1,0 +1,28 @@
+#highlights h2 {
+    line-height: 1.1em;
+    color: #c6032b;
+    font-family: 'candy';
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#highlights h3 {
+    text-align: center;
+    font-size: 16px;
+}
+
+#highlights .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#highlights article {
+    margin: 15px;
+}
+
+#highlights img {
+    width: 100%;
+    max-width: 300px;
+}

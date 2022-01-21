@@ -1,0 +1,28 @@
+#presentation {
+    text-align: center;
+}
+
+#presentation .container {
+    justify-content: center;
+}
+
+#presentation h2{
+    line-height: 1.1em;
+    color: #c6032b;
+    font-family: 'candy';
+    font-size: 50px;
+    font-weight: normal;
+}
+
+#presentation img{
+    width: 100%;
+    float: left;
+}
+
+#presentation p{
+    text-align: justify;
+    margin-left: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #343434;
+}
